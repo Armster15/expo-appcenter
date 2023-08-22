@@ -1,6 +1,6 @@
 {
   "name": "@armster/expo-appcenter",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Expo plugin for react native appcenter SDK",
   "main": "app.plugin.js",
   "repository": "git@github.com:Armster15/expo-appcenter.git",
